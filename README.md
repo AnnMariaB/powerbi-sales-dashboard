@@ -1,4 +1,5 @@
 # Sales Dashboard with Power BI
+A beginner-friendly Power BI project focused on visualizing sales performance and extracting actionable business insights.
 
 ## 📊 Project Overview
 This project presents an interactive Power BI dashboard built to analyze sales performance and generate business insights.
