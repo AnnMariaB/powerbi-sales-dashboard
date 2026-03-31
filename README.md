@@ -6,6 +6,15 @@ This project presents an interactive Power BI dashboard built to analyze sales p
 
 The dashboard highlights key metrics, sales trends over time, top-performing products, and regional performance.
 
+## 🔄 Project Workflow
+
+This project is part of a complete data analysis workflow:
+
+- Data cleaning performed using Power Query
+- Data analysis conducted using SQL
+- Insights visualized using Power BI
+
+This demonstrates an end-to-end data analysis process from raw data to business insights.
 ---
 
 ## 📁 Dataset
